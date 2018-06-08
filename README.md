@@ -1,5 +1,5 @@
 # Task_manager
-Simple Task_manager for iOS written in Swift
+Simple task manager for iOS written in Swift
 
 Features : 
 
