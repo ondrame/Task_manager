@@ -1,0 +1,16 @@
+PODS:
+  - EmptyDataSet-Swift (4.0.4)
+
+DEPENDENCIES:
+  - EmptyDataSet-Swift (~> 4.0.4)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - EmptyDataSet-Swift
+
+SPEC CHECKSUMS:
+  EmptyDataSet-Swift: 935ce169c6d4abe371bbc5dd92bcf9ee4dddb1bd
+
+PODFILE CHECKSUM: b39362dd711c069c46bb39ce8221adb07a42d531
+
+COCOAPODS: 1.5.0
